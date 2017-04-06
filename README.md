@@ -15,3 +15,4 @@ good set of links to have around when you're preparing to JS interview and progr
 ### Interview questions
  - https://github.com/kdn251/interviews // good cheat-sheet combined
  - https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+ - Algorithm Design Manual: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf // referenced and recommended by many interviwers and an awesome set of computer-science essentials
