@@ -13,4 +13,5 @@ good set of links to have around when you're preparing to JS interview and progr
  - https://github.com/donnemartin/system-design-primer
 
 ### Interview questions
- - https://github.com/kdn251/interviews // good cheat-sheet combined:
+ - https://github.com/kdn251/interviews // good cheat-sheet combined
+ - https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
