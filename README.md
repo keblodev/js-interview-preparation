@@ -3,7 +3,7 @@ good set of links to have around when you're preparing to JS interview and progr
 
 ### Initial/General
 - http://superherojs.com/  // the base
-- https://github.com/airbnb/javascript
+- https://github.com/airbnb/javascript // the code guide
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ // event-loop mechanics that everyone should know about
 
 ### Data Structures
