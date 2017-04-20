@@ -25,5 +25,5 @@ good set of links to have around when you're preparing to JS interview and progr
  - https://www.interviewcake.com/
 
 ### Train tasks:
- https://github.com/ronanamsterdam/js-angular4-test-task
- https://trello.com/jobs/front-end-developer // Taco Spolsky task from Trello -> bottom of the page -> really awesome one :)
+ - https://github.com/ronanamsterdam/js-angular4-test-task
+ - https://trello.com/jobs/front-end-developer // Taco Spolsky task from Trello -> bottom of the page -> really awesome one :)
