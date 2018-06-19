@@ -7,7 +7,8 @@ This particular manual extended to suffice Web Development Engineer interviews, 
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ // 2014 event-loop mechanics that everyone should know about by Philip Roberts
 - https://www.youtube.com/watch?v=cCOL7MC4Pl0 // 2018 event-loop updates by Jake Archibald
 
-### Data Structures
+### Data Structures and Big O
+ - http://bigocheatsheet.com/
  - https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js // woohoa in JS :)
 
 ### System Design
