@@ -1,5 +1,4 @@
 # Web Development Engineer interview prep (SDE too)
-Getting ready for a big company interview (Amazon, Miscrosoft, Google)? -> then you're in the right place.
 This particular manual extended to suffice Web Development Engineer interviews, but there's enough materials for SDE as well.
 
 ### Initial/General
