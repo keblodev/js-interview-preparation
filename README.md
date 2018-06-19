@@ -1,6 +1,11 @@
 # Web Development Engineer interview prep (SDE too)
 This particular manual extended to suffice Web Development Engineer interviews, but there's enough materials for SDE as well.
 
+### Motivation and Goal
+ - first of all understand exactly WHY are you doing this 
+  (cuz when you're starting to doubt the reason why you need to read all of this -> you'll have your answer)
+ - secondly specify the exact employment GOAL -> your position
+
 ### Initial/General
 - http://superherojs.com/  // the base
 - https://github.com/airbnb/javascript // the code guide
